@@ -1,0 +1,6 @@
+cdn.http.anno.channel4.com
+webstats.channel4.com
+monitor.channel4.com
+c4ads.2cnt.net
+cdn.ss.anno.channel4.com
+c5ads.ott.skymedia.co.uk
